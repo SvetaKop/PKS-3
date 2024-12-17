@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hello_app/components/item_note.dart';SSS
+import 'package:hello_app/components/item_note.dart';
 import 'package:hello_app/model/note.dart';
 
 class HomePage extends StatelessWidget {
